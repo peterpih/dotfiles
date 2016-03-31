@@ -20,7 +20,7 @@ alias openror="open ~/ror"
 # DOS like commands
 #
 alias cd..="cd .."
-alias cdfff="cd ~/ror/fff"
+alias cdfff="cd ~/ror/forever-family-foundation"
 alias cdror="cd ~/ror"
 #
 # git aliases
