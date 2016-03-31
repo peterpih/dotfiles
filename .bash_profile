@@ -22,9 +22,6 @@ alias openror="open ~/ror"
 alias cd..="cd .."
 alias cdfff="cd ~/ror/fff"
 alias cdror="cd ~/ror"
-alias copy="cp $1 $2"
-alias del="rm"
-alias dir="ls -aF"
 #
 # git aliases
 #
@@ -34,6 +31,9 @@ alias gr="git remote -v"
 alias gs="git status"
 alias ga="git add"
 #
+alias copy="cp $1 $2"
+alias del="rm"
+alias dir="ls -aF"
 alias ren="mv"
 alias sb="subl"
 alias search="grep -lr !$ *"
